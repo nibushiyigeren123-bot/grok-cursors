@@ -1,0 +1,75 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 21,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "Grok 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "grok",
+      "display": "Grok",
+      "seconds": 10,
+      "caption": "Grok · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 13
+    },
+    {
+      "kind": "sizes",
+      "character": "grok",
+      "display": "Grok",
+      "seconds": 5,
+      "caption": "Grok · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 原作者与音乐署名见仓库",
+      "start": 18,
+      "end": 21
+    }
+  ],
+  "profile": {
+    "repository": "grok-cursors",
+    "title": "Grok",
+    "namespace": "GrokCursors",
+    "accent": "#bc9152",
+    "version": "1.0.0",
+    "default_character": "grok",
+    "characters": [
+      {
+        "id": "grok",
+        "display": "Grok",
+        "reference_page": 7
+      }
+    ]
+  },
+  "palette": {
+    "repository": "grok-cursors",
+    "accent": "#C9A227",
+    "ink": "#1A1416",
+    "muted": "#8A7A72",
+    "bg_start": "#FBF5F0",
+    "bg_end": "#E9D6CE",
+    "title": "Grok 黑金光标库",
+    "subtitle": "金发双马尾 · X 法杖",
+    "quote": "黑酒红长裙压着黑金王冠，X 法杖握在手里。",
+    "characters": [
+      {
+        "id": "grok",
+        "label": "Grok",
+        "traits": "金发双马尾，黑金王冠，黑酒红长裙，X 法杖"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}

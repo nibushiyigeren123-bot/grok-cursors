@@ -1,0 +1,15 @@
+{
+  "repository": "grok-cursors",
+  "title": "Grok",
+  "namespace": "GrokCursors",
+  "accent": "#bc9152",
+  "version": "1.0.0",
+  "default_character": "grok",
+  "characters": [
+    {
+      "id": "grok",
+      "display": "Grok",
+      "reference_page": 7
+    }
+  ]
+}

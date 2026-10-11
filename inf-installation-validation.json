@@ -1,0 +1,49 @@
+{
+  "version": "1.0.0",
+  "schemes": 5,
+  "native_setupapi_used": true,
+  "registry_and_Windows_destination_redirected_for_isolation": true,
+  "only_fixture_edit": "reserved DIRID 10 and its placeholders replaced by user DIRID 32768; all installation sections/files/roles unchanged",
+  "actual_Explorer_context_menu_not_automated": true,
+  "active_system_cursors_unchanged": true,
+  "roles_copied_and_registered": 85,
+  "no_executable_hooks": true,
+  "does_not_claim_runtime_size_changes": true,
+  "records": [
+    {
+      "inf": "安装_Grok_32px.inf",
+      "sha256": "36619c8e40b81b6de09f13e7c13c6fc82c8419bf69590da0db40f221e19fa39d",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Grok AI 32px"
+    },
+    {
+      "inf": "安装_Grok_48px.inf",
+      "sha256": "43ffd7b4482a3e3ae7508ea438a87581479d2ce02da0af7a2081c5fe2b1826b2",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Grok AI 48px"
+    },
+    {
+      "inf": "安装_Grok_64px.inf",
+      "sha256": "98241638f04486fc9120ed44f6a2c7456194a3457bf88e1e7eeeae73d28bdec7",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Grok AI 64px"
+    },
+    {
+      "inf": "安装_Grok_128px.inf",
+      "sha256": "28c5494b608fbf197d1a1803a45bbb953411ca3be60bdac41cc4c491c445d06d",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Grok AI 128px"
+    },
+    {
+      "inf": "安装_Grok_256px.inf",
+      "sha256": "a38ad190e58b08510a24a03563d78b1529afce9aba556458dd9e2790ca1c6281",
+      "actual_setupapi_DefaultInstall_succeeded": true,
+      "copied_files_and_registered_paths_verified": 17,
+      "scheme": "Grok AI 256px"
+    }
+  ]
+}

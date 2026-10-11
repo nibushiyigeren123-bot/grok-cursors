@@ -1,0 +1,8 @@
+{
+  "transparent_background": true,
+  "referenced_image_paths": [
+    "E:/cladue缓存/AI全家动态指针_20261012/references/ZipZipPipe/148186519_p7.jpg",
+    "E:/cladue缓存/AI全家动态指针_20261012/characters/opus/poses-v1.png"
+  ],
+  "prompt": "GROK: blonde long twin tails with large black bows, blue eyes, small black-and-gold crown, tiny dark bat-wing accessories beside head, black gothic long dress with burgundy lining and gold orbital circle ornaments, black boots. Signature handheld staff topped with a clearly shaped gold-edged black X. Keep staff scaled to fit safely inside each sprite; never crop the X. She has mischievous confident smile, cute chibi styling. Do not copy a whale, fox or cat silhouette. Reference1 is the exact character design to adapt; reference2 is ONLY the coherent clean anime chibi drawing style. Do not copy the orange Claude costume. Output ONE 3-by-3 action SOURCE atlas of this character in 9 complete full-body poses. True alpha transparent background, clean cel shading, clear friendly eyes, 2.4 heads tall, stable hair/outfit/accessories. VERY IMPORTANT SPACING: strict 3 columns and 3 rows; ENTIRE figure occupies at most 72% of each tile's width and height; 14% completely transparent margins on all four sides of EACH tile. Adjacent silhouettes, hair, tails and clothing must NEVER touch. No clipping, no figures at image edge. No text, no labels, no borders, no ground, no floating background objects. Row1: neutral happy standing, thinking, focused using signature prop. Row2: wave with free hand, walking right, walking left. Row3: cheerful little jump, sleepy/focused, dejected. TWO hands and TWO legs, consistent costume. Props stay recognizably the same, no generic brown Claude book substituted. Ideally 2048x2048."
+}
