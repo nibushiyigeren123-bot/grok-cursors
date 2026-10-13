@@ -1,0 +1,16 @@
+{
+  "release": "v1.0.1",
+  "system": "Windows 11 26300",
+  "installer_cases": 12,
+  "keeper_cases": 7,
+  "real_desktop_character_size_cases": 5,
+  "system_cursor_roles": 17,
+  "all_manifest_frames_native_drawn": true,
+  "capture_method": "D3D11 Desktop Duplication",
+  "original_cursor_restored": true,
+  "windows_10_1803_bootcamp_200_percent_not_tested": true,
+  "unchanged_ani_files": 85,
+  "installer_sha256": "95de2aee3f5fbdf3c56f3b5c28b86ff4f094bb6a1208eefa4333a861d7d35f82",
+  "keeper_source_sha256": "67044b1aa14aadf71601bc9311fa1bd61cdfed70827cd5c46598940dd3aadfcb",
+  "keeper_no_repeat_apply_10_seconds": true
+}

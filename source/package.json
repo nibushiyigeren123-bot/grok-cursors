@@ -3,7 +3,7 @@
   "title": "Grok",
   "namespace": "GrokCursors",
   "accent": "#bc9152",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "default_character": "grok",
   "characters": [
     {
