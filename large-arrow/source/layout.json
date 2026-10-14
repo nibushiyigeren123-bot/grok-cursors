@@ -1,0 +1,79 @@
+{
+  "base_canvas": 72,
+  "symbol_origin": [
+    2,
+    2
+  ],
+  "character_origins": {
+    "grok": {
+      "Arrow": [
+        16,
+        15
+      ],
+      "Help": [
+        11,
+        13
+      ],
+      "AppStarting": [
+        12,
+        13
+      ],
+      "Wait": [
+        17,
+        19
+      ],
+      "Crosshair": [
+        14,
+        17
+      ],
+      "IBeam": [
+        15,
+        13
+      ],
+      "NWPen": [
+        13,
+        15
+      ],
+      "No": [
+        16,
+        16
+      ],
+      "SizeNS": [
+        11,
+        13
+      ],
+      "SizeWE": [
+        9,
+        10
+      ],
+      "SizeNWSE": [
+        17,
+        19
+      ],
+      "SizeNESW": [
+        12,
+        15
+      ],
+      "SizeAll": [
+        12,
+        15
+      ],
+      "UpArrow": [
+        16,
+        13
+      ],
+      "Hand": [
+        18,
+        21
+      ],
+      "Pin": [
+        12,
+        15
+      ],
+      "Person": [
+        20,
+        22
+      ]
+    }
+  }
+}
