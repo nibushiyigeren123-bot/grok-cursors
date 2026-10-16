@@ -12,247 +12,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/grok/32/Help.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/grok/32/AppStarting.ani",
-    "hotspot": [
-      0,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/grok/32/Wait.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/grok/32/Crosshair.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/grok/32/IBeam.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/grok/32/NWPen.ani",
-    "hotspot": [
-      1,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/grok/32/No.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/grok/32/SizeNS.ani",
-    "hotspot": [
-      2,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/grok/32/SizeWE.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/grok/32/SizeNWSE.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/grok/32/SizeNESW.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/grok/32/SizeAll.ani",
-    "hotspot": [
-      4,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/grok/32/UpArrow.ani",
-    "hotspot": [
-      4,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/grok/32/Hand.ani",
-    "hotspot": [
-      3,
-      0
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/grok/32/Pin.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 32,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/grok/32/Person.ani",
-    "hotspot": [
-      4,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "5960460fa7dd52e3b8a716f9a780988d6f3fdf6ea26f6bc472716b1b243e1f66"
   },
   {
     "character": "grok",
@@ -267,247 +30,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/grok/48/Help.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/grok/48/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/grok/48/Wait.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/grok/48/Crosshair.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/grok/48/IBeam.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/grok/48/NWPen.ani",
-    "hotspot": [
-      1,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/grok/48/No.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/grok/48/SizeNS.ani",
-    "hotspot": [
-      3,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/grok/48/SizeWE.ani",
-    "hotspot": [
-      6,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/grok/48/SizeNWSE.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/grok/48/SizeNESW.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/grok/48/SizeAll.ani",
-    "hotspot": [
-      6,
-      6
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/grok/48/UpArrow.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/grok/48/Hand.ani",
-    "hotspot": [
-      4,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/grok/48/Pin.ani",
-    "hotspot": [
-      5,
-      12
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 48,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/grok/48/Person.ani",
-    "hotspot": [
-      6,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "07c59040b741de90c61391ec3d042e9072e45ec77b9e2388cc58ee3aa312d4c6"
   },
   {
     "character": "grok",
@@ -522,247 +48,28 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "4963baf6e388484d94786a1d32a7e14223530f90654785fea18e5402dfa580a4"
   },
   {
     "character": "grok",
-    "size": 64,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/grok/64/Help.ani",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/grok/96/Arrow.ani",
     "hotspot": [
       1,
-      1
+      2
     ],
     "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/grok/64/AppStarting.ani",
-    "hotspot": [
-      1,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/grok/64/Wait.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/grok/64/Crosshair.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/grok/64/IBeam.ani",
-    "hotspot": [
-      4,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/grok/64/NWPen.ani",
-    "hotspot": [
-      1,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/grok/64/No.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/grok/64/SizeNS.ani",
-    "hotspot": [
-      3,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/grok/64/SizeWE.ani",
-    "hotspot": [
-      8,
-      3
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/grok/64/SizeNWSE.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/grok/64/SizeNESW.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/grok/64/SizeAll.ani",
-    "hotspot": [
-      8,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/grok/64/UpArrow.ani",
-    "hotspot": [
-      7,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/grok/64/Hand.ani",
-    "hotspot": [
-      5,
-      1
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/grok/64/Pin.ani",
-    "hotspot": [
-      7,
-      16
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 64,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/grok/64/Person.ani",
-    "hotspot": [
-      8,
-      4
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "8ca0eed0880cc470c81b030521e465bd84453a137d0dd8c8d79346e702b9c5d6"
   },
   {
     "character": "grok",
@@ -777,247 +84,10 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "Help",
-    "label": "帮助选择",
-    "file": "cursors/grok/128/Help.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "AppStarting",
-    "label": "后台运行",
-    "file": "cursors/grok/128/AppStarting.ani",
-    "hotspot": [
-      2,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "Wait",
-    "label": "忙碌",
-    "file": "cursors/grok/128/Wait.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "Crosshair",
-    "label": "精确选择",
-    "file": "cursors/grok/128/Crosshair.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "review"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "IBeam",
-    "label": "文本选择",
-    "file": "cursors/grok/128/IBeam.ani",
-    "hotspot": [
-      8,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "NWPen",
-    "label": "手写",
-    "file": "cursors/grok/128/NWPen.ani",
-    "hotspot": [
-      2,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "working"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "No",
-    "label": "不可用",
-    "file": "cursors/grok/128/No.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "failed"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "SizeNS",
-    "label": "垂直调整",
-    "file": "cursors/grok/128/SizeNS.ani",
-    "hotspot": [
-      7,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "SizeWE",
-    "label": "水平调整",
-    "file": "cursors/grok/128/SizeWE.ani",
-    "hotspot": [
-      17,
-      7
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "SizeNWSE",
-    "label": "对角调整1",
-    "file": "cursors/grok/128/SizeNWSE.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "SizeNESW",
-    "label": "对角调整2",
-    "file": "cursors/grok/128/SizeNESW.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-left"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "SizeAll",
-    "label": "移动",
-    "file": "cursors/grok/128/SizeAll.ani",
-    "hotspot": [
-      17,
-      17
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "walking-right"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "UpArrow",
-    "label": "候选选择",
-    "file": "cursors/grok/128/UpArrow.ani",
-    "hotspot": [
-      14,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "jumping"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "Hand",
-    "label": "链接选择",
-    "file": "cursors/grok/128/Hand.ani",
-    "hotspot": [
-      10,
-      2
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "Pin",
-    "label": "位置选择",
-    "file": "cursors/grok/128/Pin.ani",
-    "hotspot": [
-      13,
-      32
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waiting"
-  },
-  {
-    "character": "grok",
-    "size": 128,
-    "role": "Person",
-    "label": "人员选择",
-    "file": "cursors/grok/128/Person.ani",
-    "hotspot": [
-      15,
-      8
-    ],
-    "frames": 8,
-    "jiffies": 8,
-    "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "cb3d3ba155fc100dafabbd6f53c369126be58c2368a8d61d804ceb8bf6344410"
   },
   {
     "character": "grok",
@@ -1032,7 +102,100 @@
     "frames": 8,
     "jiffies": 12,
     "frame_ms": 200.0,
-    "action": "idle"
+    "action": "idle",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "dfa4d86958be85a7c3e73f3d8a9dbe4b9c6d4f6161db5939de91ec7ab58b92a9"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/grok/32/Help.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "6ee8e3c189ee986c053a451ceaf6d32c6365b2b064cb36bcd48ea51610660946"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/grok/48/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "70c6c165185978a9685f120c20fe5d1c119e1a5456c01cbbca7df7a5ec05ef4b"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/grok/64/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "2d53904e06c4ba884c1629499f95515c80647ff52e7198df5588bb958d4fe2c0"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/grok/96/Help.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "457709f69a91b78a46b12420fd31abe55fd98c15be72ed4fbb88ffe3cfa9ef7f"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/grok/128/Help.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "2cbf8ad714d2f612070b4c1d29171cfe10fa3a391022ee951e8051b9223c14d8"
   },
   {
     "character": "grok",
@@ -1047,7 +210,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "93c987ed3615dc5d0a59c8bc8c53b00608b6e09063434a5868b47bc74ec2c924"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/grok/32/AppStarting.ani",
+    "hotspot": [
+      0,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "b6016b79706706788de2e034c5a4849f950f423ffccd3ef29c92a670bb19c371"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/grok/48/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "448b2b3695120118d67215833be1e0179ec60be9a27f46c5b8322aa0e626acd5"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/grok/64/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "67cf8893fa338254d6b6ff45b6427db158d0a3ed89add14e06ddca15a1aeecfc"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/grok/96/AppStarting.ani",
+    "hotspot": [
+      1,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "78fe03d0b8335d7f63f2345b89d9ec7a4554418a2a2b97334602f8c18d712d75"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/grok/128/AppStarting.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "ec99a4e4e772d9788f383f031e495afc72e3ebcde9e0c5e1a0700dbca6526b22"
   },
   {
     "character": "grok",
@@ -1062,7 +318,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "1fe07a6dbfb1bd9997fc0790d23fac46379e53e673dd7de71e2a3b23e56cb767"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/grok/32/Wait.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "c5857c2b838fbed5bf2ce9c9ecefe3b2961d3d878b074e0e048f3adb3a4695b0"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/grok/48/Wait.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "2483e313735c55c69440443c0b9dc54283ba55ebf2d6096d69f6d2d38b88eeaf"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/grok/64/Wait.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "87bb375676e5bcc6354b67eda2836d801214036953bd2eedddc2908f35e8a6b4"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/grok/96/Wait.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "e88d797e7234ae1ca3aaabf1d89f1ddf3390e0fbc87fe49b0a35d7c0a245aacc"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/grok/128/Wait.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "37a81ce9bbb719cea1f6fed322ed20a5e349c4a0fbb5807f8454b20ce2a8b1ff"
   },
   {
     "character": "grok",
@@ -1077,7 +426,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "c61cb43ad00646cd123b0a371044ff957b2dc6cce9df03d05b89ade4d1760e63"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/grok/32/Crosshair.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "87028c89edc5066e885594b8e28602223b1db8cfda5d587a3cfeb895ff1b73d4"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/grok/48/Crosshair.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "0034565fe607983045add4fcca8b919a5070853bd23701cdc95ad6672c1f7cd0"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/grok/64/Crosshair.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "c9a8e1df1c2ec7ec0cc78cd43ca0282131859b9170e03ccc26753259c8ca31f4"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/grok/96/Crosshair.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "5725b34ce06491b865790918f63df7f6cd972694de43f0e2052f37bd5ffae149"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/grok/128/Crosshair.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "13c731409812332852a40af6262b68543834151e7c78dbe1746b1e232577ad79"
   },
   {
     "character": "grok",
@@ -1092,7 +534,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "review"
+    "action": "review",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "d7483543cdb0fa679c99e1ffabb425e45cfd1fd2ad407046b5598a1590dcde07"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/grok/32/IBeam.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "b45386f13986edd702b466b987d76f1dbe84e5d7873e72fd03900ff55e9a7310"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/grok/48/IBeam.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "876b42423d81aec9809d4d750ebc710ec7c7a01b20379fccb28da56f77f502ea"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/grok/64/IBeam.ani",
+    "hotspot": [
+      4,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "eab1a2316929793daf6f6335725ee71ed47932d619f638b09e7b9dd29a6e13b5"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/grok/96/IBeam.ani",
+    "hotspot": [
+      6,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "0e6738e59a29a71896014871a9e1fd63f8035b208b3f20511711bd23b9b661f7"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/grok/128/IBeam.ani",
+    "hotspot": [
+      8,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "ff4262a0d616d30343ec06fd808259aef4dd02cd9e8f1ba91ca5e8e1c7108b28"
   },
   {
     "character": "grok",
@@ -1107,7 +642,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "680ef568a0fccf133655c6c196be8a3e3d5da6e76fe6cf12a07b565ce70eb7f8"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/grok/32/NWPen.ani",
+    "hotspot": [
+      1,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "2c32e6584e4b40600095e131fe97c54459b91c30d3cfb1b12c285572c62ccdd5"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/grok/48/NWPen.ani",
+    "hotspot": [
+      1,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "134495c872ea910a5aa5834e933ede27d09e036f34d261f73e74555b640a70f4"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/grok/64/NWPen.ani",
+    "hotspot": [
+      1,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "d60328711ddde33cb63834a1a05e3c0f30e509a72b212216930de6bb1f41746f"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/grok/96/NWPen.ani",
+    "hotspot": [
+      2,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "15fe5a0a1cb133cdc2948db0a5becabb9bfc733f2240faa17e2236df211abcf4"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/grok/128/NWPen.ani",
+    "hotspot": [
+      2,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "0c5429c5b764418bd30416552861a7dc2685a7356be94be679c23c03e5aad887"
   },
   {
     "character": "grok",
@@ -1122,7 +750,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "working"
+    "action": "working",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "6673fdf7e5fa22e3cd9f5fa870acddfbc1580a4edcba85af142a9ad7c58f4096"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/grok/32/No.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "5d8d247bc1203230bb7769b4ac1209a2427be69daa14b7f3bed9e0413f35719a"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/grok/48/No.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "6dbbd9417d4d6520607951a4d65057f7c7af71c178b37994d4ccd096c3b41b49"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/grok/64/No.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "0fd248563afc72d68abcd599244e81369398b28aff773f347be4e9e7e0ec71c0"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/grok/96/No.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "b1072a224c7fc2eb88d242bbed0aad4f51ab2709d9ed9e4bfa6c92b47ae60215"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/grok/128/No.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "84648c71439dc72a14f6828e08ec79633c26583967605b0b9d9a18c3305ccb62"
   },
   {
     "character": "grok",
@@ -1137,7 +858,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "failed"
+    "action": "failed",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "f41abc4183f08dde24594c5ec37976e7c07e66c07ba4624ec8c5da7d953aef69"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/grok/32/SizeNS.ani",
+    "hotspot": [
+      2,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "bbc4bf6d1197039833923f849e5c974b6fb6668ee21841f22ea0963ef6939250"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/grok/48/SizeNS.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "e60838c20934c3ccc4d3abe5a48cf84b4a45e826938051c20011ecc951f8c52b"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/grok/64/SizeNS.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "c3430ec5d8168e08a744839be11635351d24d398ae221d790f900d15bd4aed30"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/grok/96/SizeNS.ani",
+    "hotspot": [
+      5,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "13143e001058b4ad5a406c992cf046ab242eb072c31c19d54b7a8c808c6b86dc"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/grok/128/SizeNS.ani",
+    "hotspot": [
+      7,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "010a9534446e82b4247b8622eb22d3a9aab8de85d72297a1444e3f103998e616"
   },
   {
     "character": "grok",
@@ -1152,7 +966,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "9c492629cf538d96bed51dbed6155dd2e6169c5e4b579a18fe59aa9abd209945"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/grok/32/SizeWE.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "05fa3dc921ab884e997d10cca041c3fd0be2f4de1a97e5e94dccdde66129add1"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/grok/48/SizeWE.ani",
+    "hotspot": [
+      6,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "d81f899a74d80b2478b56c1af98ff18ebdf0a6dad25fbbfeeaeaf2deff6a4180"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/grok/64/SizeWE.ani",
+    "hotspot": [
+      8,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "0b04f8e8394406c56139607e9fd9d9a9283cba18c4a909dad74f26c1b11902cf"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/grok/96/SizeWE.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "0c7cdc198a50395bd30ed29ffbdedbaf67509cf7e76f575df72ac508c7203685"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/grok/128/SizeWE.ani",
+    "hotspot": [
+      17,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "b007ecbc3b81765fc016fd48314ffd389d15e67cb34ff2891acb10151c98d365"
   },
   {
     "character": "grok",
@@ -1167,7 +1074,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "f12322c99ad1c11f485c0a0b621976010e1ab9439544482abf515187fa95477b"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/grok/32/SizeNWSE.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "3dda104424fb71e06fccd58dea4faf2cd408875cd23541b8b27760c7ad821f72"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/grok/48/SizeNWSE.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "b319724240a3e01511a2d76c7839353fa8a604fde4a4b38b5b4224e4e59a21ff"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/grok/64/SizeNWSE.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "75980f50b178e229911c5c02ac9a0b9b7af5728f83d34ba01de842ec129592c2"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/grok/96/SizeNWSE.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "199253770d78dc7b5784d430527d852138f8475969aae8ea701ce835007ff5f2"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/grok/128/SizeNWSE.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "14c07242c9b8c1ff4e345759b01b0bab406f9a8545406f4aac2d62efa6531b45"
   },
   {
     "character": "grok",
@@ -1182,7 +1182,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "473d91694db63ad5b9fabc921d13c37b18aab2d9555f567f544b1199e51fe95b"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/grok/32/SizeNESW.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "dbfd9550163c287fff3eae73d055fc0d350234ca8f3a49c6187fa9076fdb7c61"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/grok/48/SizeNESW.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "f981a459d20a38f9f16141f71a4113ca57c1b0380881a1d1eeb40053839da4f6"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/grok/64/SizeNESW.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "1674c36bebd2024f0da959e41cd0ea9c03b423ef11f49df745af0f9daa124f4c"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/grok/96/SizeNESW.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "49acf87d703894eaf560f9556bead50d611c893bd56001da95e4d7e9f2d1dca5"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/grok/128/SizeNESW.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "4cc2d87cb682a0084ae8b3a9463fecb5f6b5571080a77c4555a17f1e09970c99"
   },
   {
     "character": "grok",
@@ -1197,7 +1290,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-left"
+    "action": "walking-left",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "5605f421b0c8346b4d9bc6b4e474bd5630e1ac5da5550e94cfe7b46f6c6d4e7f"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/grok/32/SizeAll.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "f24e99c96f4fcd43258a40f6f4bb917bc15bb3c88802fda784eb97a6a5385a81"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/grok/48/SizeAll.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "5d68629f5b1176fc482204d5d47e1a6922e41ef85ea5b12f032d996f6f3a7661"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/grok/64/SizeAll.ani",
+    "hotspot": [
+      8,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "4d5c193abb9d8326194a3a189fb4756afc257a6f98c97cab91e4a2ad4e6a4ffc"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/grok/96/SizeAll.ani",
+    "hotspot": [
+      13,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "e6e98085b6a310878d4768fc626d28b7c62a12fad7df679c32fa209de9b99c37"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/grok/128/SizeAll.ani",
+    "hotspot": [
+      17,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "1fdf119cde5529f66c5589c106e81f8369a6df4fb8faf595d0cf63bddf57ecf2"
   },
   {
     "character": "grok",
@@ -1212,7 +1398,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "walking-right"
+    "action": "walking-right",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "47d60791da17d71fc04ca7fe198949482d3c35c71ff4d19cd092e4a9ec1da82d"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/grok/32/UpArrow.ani",
+    "hotspot": [
+      4,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "4f2de646ba62cee58dbfcb926aa7c80b1e751c65c409c6a96296d675413390ee"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/grok/48/UpArrow.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "f65efaeba67eeb106987867edf7499552a7547e71c5bc4d87fb4496ab39eba49"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/grok/64/UpArrow.ani",
+    "hotspot": [
+      7,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "f1da405d451ab312abbf98556efde3664fdb306f336cb3980f65de1e3211ff5e"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/grok/96/UpArrow.ani",
+    "hotspot": [
+      11,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "2e30f9aac42c238d00c8e559d2b7bddff2a53fb3cb915d4e4e85538d5414a551"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/grok/128/UpArrow.ani",
+    "hotspot": [
+      14,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "a01afac21d05f685b185fccb49a7caefd8b8534ccc063e16a62e3cef7360fc9a"
   },
   {
     "character": "grok",
@@ -1227,7 +1506,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "jumping"
+    "action": "jumping",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "717ad8efd78d9415c5d03e17780b0de12cf6b907514023569a14e09c4b49f6cf"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/grok/32/Hand.ani",
+    "hotspot": [
+      3,
+      0
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "420f4645428ee367a3e1d9595f8750e690f43d54b4f18f9a6fff276a7708955a"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/grok/48/Hand.ani",
+    "hotspot": [
+      4,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "92d70cf5ad29fff217f4bbe0e95428c535395eda36dfd81f72e9f8fe8f3a9a2d"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/grok/64/Hand.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "0efaaf02f8052ee1f960508a0d267720f1eb4a203d4691413b76ffec0605e944"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/grok/96/Hand.ani",
+    "hotspot": [
+      8,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "44c21071e17c9426ddc22be28f91b2357d0dc2373f9247232ecdbfde3e22ff6a"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/grok/128/Hand.ani",
+    "hotspot": [
+      10,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "b7a111156d163daf0d4206a84e4c0520e4c5567cf79ae1d289f99856dc1bc08e"
   },
   {
     "character": "grok",
@@ -1242,7 +1614,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "0e831ae3a26810664768af817d01264c5fc36c5465ca82b0546c5a7325eccbff"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/grok/32/Pin.ani",
+    "hotspot": [
+      3,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "51e15e97a9c0b158a9945634c1e9817a383c17ef89434e262a6d2ccc94608f1f"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/grok/48/Pin.ani",
+    "hotspot": [
+      5,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "5f1276fa44e49605e6fa217091468e5afa132e6deb141c5d69ea365d371e1c70"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/grok/64/Pin.ani",
+    "hotspot": [
+      7,
+      16
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "9aef85723a81b0585478105a8fba0bdb41c11e98a5bd018cff247b1548272c53"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/grok/96/Pin.ani",
+    "hotspot": [
+      10,
+      24
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "ec419f858a51ae3ff68e72dc7487209fe942f211ee945146375796d8422905e5"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/grok/128/Pin.ani",
+    "hotspot": [
+      13,
+      32
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "6c86bc1e0aa2884e0c586a9d520d857e0602b08e39ffb66060807a2ab92bc9ae"
   },
   {
     "character": "grok",
@@ -1257,7 +1722,100 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waiting"
+    "action": "waiting",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "f7135cb305aaad1a8bf1b992e546081d683ebea2a8c82689a9efb57e2fa8ff78"
+  },
+  {
+    "character": "grok",
+    "size": 32,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/grok/32/Person.ani",
+    "hotspot": [
+      4,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 32,
+    "character_reference_size": 32,
+    "sha256": "19cd3264c81d67ebd4776984aa74628733a4e15adbb4ba2a54f3fc94fe9276aa"
+  },
+  {
+    "character": "grok",
+    "size": 48,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/grok/48/Person.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 48,
+    "character_reference_size": 48,
+    "sha256": "8aa15ee17d41ee5c5baf129735f0a4f35c99519a1c0e1d8fe371bb8fb44bc7eb"
+  },
+  {
+    "character": "grok",
+    "size": 64,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/grok/64/Person.ani",
+    "hotspot": [
+      8,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 64,
+    "sha256": "732e2d293e45031d87f014c9e081a2ba210ee509da5c520dd7354d35211e80d1"
+  },
+  {
+    "character": "grok",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/grok/96/Person.ani",
+    "hotspot": [
+      12,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 96,
+    "sha256": "5b24ff0cfcaa7bf5742024756c3bd9490bdc7abb6bd727500502d37a5ed4e5da"
+  },
+  {
+    "character": "grok",
+    "size": 128,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/grok/128/Person.ani",
+    "hotspot": [
+      15,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 128,
+    "sha256": "bb9df4926b83f71605533bb6a0fdd30e6a6530fd2e71a3ef899cd9c3826de8e4"
   },
   {
     "character": "grok",
@@ -1272,6 +1830,9 @@
     "frames": 8,
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
-    "action": "waving"
+    "action": "waving",
+    "render_size": 256,
+    "character_reference_size": 256,
+    "sha256": "be9e53caab936028e46998140535335d74429ec0ed81caeef280bda919d2e796"
   }
 ]

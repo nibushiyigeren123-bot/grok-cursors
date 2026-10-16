@@ -1,0 +1,9 @@
+{
+  "grok": {
+    "INK": "#1a1416",
+    "WHITE": "#f7fbff",
+    "MINT": "#c9a227",
+    "GOLD": "#c9a227",
+    "OUTER": "#1a1416"
+  }
+}
