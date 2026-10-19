@@ -1,0 +1,26 @@
+{
+  "version": "v1.3.0",
+  "packages": [
+    {
+      "kind": "non-avoidance",
+      "name": "grok-cursors-non-avoidance-v1.3.0.zip",
+      "sha256": "a2e9cb9c6c4dc957c6c3d89c7cb98e0140e46f2adde0c67269bf994084bbb3a0",
+      "coreSha256": "439155a4cd911b60b6d67880a386a105ee86687419cb2531346d20abbce4349b",
+      "profiles": 13,
+      "characters": [
+        "grok"
+      ]
+    },
+    {
+      "kind": "avoidance",
+      "name": "grok-cursors-avoidance-v1.3.0.zip",
+      "sha256": "84c7511a448a5e2c032a483ca66b5b1fabe01922472e1a4bea73e0a4951c102a",
+      "coreSha256": "95a24bd9db6be92a126df4babc201e73aba80808a5d0504d644ab95b119fff74",
+      "profiles": 13,
+      "characters": [
+        "grok"
+      ]
+    }
+  ],
+  "resources": "Complete editable PNG/ANI assets are included in the corresponding installation ZIP."
+}
