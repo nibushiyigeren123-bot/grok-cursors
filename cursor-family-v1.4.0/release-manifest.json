@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "grok-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 47164343,
+      "sha256": "a7fe3f76abdf65c06204831a476f0f2fd68762e2d76220f8750d9ba348ff2da6"
+    },
+    {
+      "name": "grok-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 282415,
+      "sha256": "36b720ca01bb5642611bdc82f2aef8187f03bc597362d9128eba5a8fb722133f"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 219,
+      "sha256": "bfeb35fc016f96c9b60ac358f101ef1db65a440e45016f1d342118ca2057bf33"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 13,
+  "originalMediaUnchanged": true
+}
